@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@android:id/background">
+        <nine-patch
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:src="@drawable/background"
+            android:dither="true"/>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip>
+            <shape>
+                <gradient
+                    android:startColor="#300000"
+                    android:endColor="#300000"
+                    android:angle="270"/>
+ 
+            </shape>
+        </clip>
+ 
+    </item>
+    <item
+        android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <gradient
+                    android:startColor="#FF5e8ea3"
+                    android:endColor="#FF13729e"
+                    android:angle="270"
+                    >
+ 
+                </gradient>
+                <corners
+                    android:radius="5dp"/>
+            </shape>
+        </clip>
+ 
+    </item>
+</layer-list><!-- From: file:/home/jose/AndroidstudioProjects/reproductor1/reproductor/src/main/res/drawable/fondo_progress.xml -->

@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
+
+    defaultConfig {
+        applicationId "jmhh.reproductormelodiame"
+        minSdkVersion 10
+        targetSdkVersion 20
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
+    compile project(':facebookSDK')
+    compile project(':drag')
+
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:appcompat-v7:21.0.2'
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/twitter4j-core-3.0.5.jar')
+    compile 'com.jakewharton:butterknife:6.0.0'
+    compile 'com.afollestad:material-dialogs:0.6.2.3'
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_parent_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:background="@android:color/white">
+    <include
+        layout="@layout/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:id="@+id/mlayout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="39dp" >
+
+        <EditText
+            android:id="@+id/textoo"
+            android:layout_width="269dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:singleLine="true">
+
+            <requestFocus />
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/boton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#16022B"
+            android:src="@drawable/ic_menu_search" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="348dp"
+            android:layout_above="@+id/anuncio"
+            android:layout_alignParentTop="true"
+            android:cacheColorHint="#00000000" >
+
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/anuncio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>
+</LinearLayout><!-- From: file:/home/jose/AndroidstudioProjects/reproductor1/reproductor/src/main/res/layout/melolayout.xml -->

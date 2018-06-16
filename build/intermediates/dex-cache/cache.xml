@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/reproductor1/facebookSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c49196aaf167498f58ea90872a3b6bbb8926b9fb">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-9f640c25dc3ed0c372722ce6035e16a19cf952f4.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.6.2.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c0c2ef5a14be5317f163928bd2c728ea6f17cf25">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-fd63c872f39f5bfdafb17e25f660ca2dd7d5cc62.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-89ee405667397c4e9c898b5356ceb70f1837e98e.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/reproductor1/drag/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d44c0185aa1059e5a2581e9ec4fc0ace4b3d439e">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-8329778152dd72bf943597940d26c3dd8074e126.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-89ee405667397c4e9c898b5356ceb70f1837e98e.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-050588ba3f2e3a9ad6b277748cdee98f78841f53.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/butterknife-6.0.0-ccaa4c0efb0a21a59ef568ba0cec500e8f6dac37.jar" />
+    </item>
+    <item
+        jar="/home/jose/Documentos/proyectosapk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7967666094a9a5a73b775cad8b4960088ed0e879.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-6fd88133cbd209dc9dd2a5d4a8a066748b15f701.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-050588ba3f2e3a9ad6b277748cdee98f78841f53.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-781b347f98477be56f7a2172831c832e8064fc01.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-6fd88133cbd209dc9dd2a5d4a8a066748b15f701.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/libs/twitter4j-core-3.0.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5999e1915b61b30c9fc40d5d1971906bb68aca6c">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/twitter4j-core-3.0.5-cc0dde2482875f3575c9e9e774f19211f9a0a48a.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/reproductor1/facebookSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98d432fbfce582134a2063068d8b4abf587a30c1">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-9f640c25dc3ed0c372722ce6035e16a19cf952f4.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-aedea2d2fdb345c3293c2ff4238beff1bc5d5c55.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/libs/twitter4j-core-3.0.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5999e1915b61b30c9fc40d5d1971906bb68aca6c">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/twitter4j-core-3.0.5-cc0dde2482875f3575c9e9e774f19211f9a0a48a.jar" />
+    </item>
+    <item
+        jar="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/exploded-aar/reproductor1/drag/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="98b1556eae583c879f8f7b06fe2d371976b810ba">
+        <dex dex="/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-8329778152dd72bf943597940d26c3dd8074e126.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Reproductor Melodiame</string>
+    <string name="title_activity_reroductor">Reproductor Melodiame</string>
+    
+ <string name="permission_not_granted">Can not perform the selected action because permissions are not granted.</string>
+    <string name="ok">OK</string>
+    <string name="success">Sent</string>
+    <string name="error">Error</string>
+    <string name="app_id">725713924105522</string>
+     <string name="eliminar">Delete from the list?</string>
+<string name="si">Yes</string>
+   <string name="borrar_todo">Delete all</string>
+   <string name="cancelar">Cancel</string>
+   <string name="anadir">Do you want to add to the list?</string>
+<string name="anadir_todo">Add all</string>
+<string name="borrar_tarjeta">Do you want to delete it from the memory card?</string>
+<string name="grupos">Bands</string>
+<string name="albumes">Albums</string>
+<string name="anterior">Previous</string>
+<string name="insertar">Enter a name for the list</string>
+<string name="guardar">Save</string>
+<string name="guardando">Saving &#8230;</string>
+<string name="existe">There is already a list with that name!</string>
+<string name="cargando_lista">Loading lists&#8230;</string>
+<string name="anadir_boton">Add</string>
+<string name="borrar_boton">Delete</string>
+<string name="borrando">Erasing &#8230;</string>
+<string name="descargar">Download</string>
+<string name="descargando">Downloading &#8230;</string>
+<string name="disponibilidad">Checking availability</string>
+<string name="caido">Link fallen</string>
+<string name="salir">Exit</string>
+<string name="publicar">Do you want to publish the current song on Twitter or Facebook?</string>
+<string name="publicado">Published successfully</string>
+<string name="tweet">Tweet posted</string>
+<string name="no_tweet">Failed to send your tweet</string>
+<string name="sin_red">No network!!</string>
+<string name="sin_sd">Not inserted the SD card!</string>
+<string name="sin_sd2">No SD when inserted click here</string>
+<string name="no_escucha">You are not hearing anything!</string>
+<string name="anadir_lista">You have to add a list</string>
+<string name="claves">Did not match the key on the phone will download</string>
+<string name="estar_escuchando">I am listening</string>
+<string name="cancelado">Canceled</string>
+<string name="elimina_descarga">Delete or download?</string>
+<string name="desconocido">Unknown</string>
+<string name="no_canciones">No songs added</string>
+<string name="no_bbdd">Can not create the DB</string>
+<string name="nombre_lista">You have to put a name to the list</string>
+<string name="anadir_borrar">Do you want to add or delete?</string>
+<string name="anadiendo">Adding &#8230;</string>
+<string name="no_lista">There is no list</string>
+<string name="no_valor">There is no rating</string>
+<string name="no_valido">No valid files</string>
+<string name="carpeta">Folder</string>
+<string name="defectuoso">Defective</string>
+<string name="cargando">Loading &#8230;</string>
+<string name="cargando_gr">Loading bands &#8230;</string>
+<string name="cargando_al">Loading albums &#8230;</string>
+<string name="guardar_lista">Save List</string>
+<string name="abrir_lista">Open List</string>
+<string name="de">of</string>
+<string name="puntuar">Do you want to save/change your opinion?</string>
+<string name="guar_dar">Successfully saved</string>
+<string name="mo_difica">Changed</string>
+<string name="val_or">Rating</string>
+<string name="can_cion">Songs</string>
+<string name="pulsa_gr">Press to load bands</string>
+<string name="pulsa_al">Press to load albums</string>
+<string name="ecu">Equalizer</string>
+<string name="res">Restore defaults</string>
+<string name="tweetoface">¿Twitter or Facebook?</string>
+<string name="borrar_todol">Delete all lists?</string>
+<string name="borrar_todov">Delete all the rating?</string>
+<string name="re_des">Social networks</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string-array name="drawer_titles">
+        <item>Home Screen</item>
+        <item>Play List</item>
+        <item>Save List</item>
+        <item>Saved Play Lists</item>
+        <item>Rating</item>
+        <item>Melodiame</item>
+        <item>Social Networks</item>
+        <item>Equalizer</item>
+
+    </string-array>
+
+    <array name="drawer_icons">
+        <item>@drawable/play_icon</item>
+        <item>@drawable/ic_menu_playlist</item>
+        <item>@drawable/ic_menu_save</item>
+        <item>@drawable/ic_menu_list</item>
+        <item>@drawable/star_off2</item>
+        <item>@drawable/ic_menu_lyrics</item>
+        <item>@drawable/so_cial</item>
+        <item>@drawable/e_qu</item>
+
+        <item>@drawable/exit_1</item>
+    </array>
+</resources>

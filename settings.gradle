@@ -1,0 +1,6 @@
+include ':facebookSDK'
+include ':drag'
+include ':sliding'
+include ':viewpager'
+include ':reproductor'
+include ':MaterialTabsModule'

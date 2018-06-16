@@ -1,0 +1,104 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From FacebookSDK:
+* build.xml
+From drag:
+* .gitignore
+* ant.properties
+* build.xml
+* pom.xml
+* proguard-project.txt
+From reproductor:
+* ic_launcher-web.png
+* proguard-project.txt
+From sliding:
+* LICENSE.txt
+* build.gradle
+* library.iml
+* pom.xml
+From viewpager:
+* pom.xml
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+Sherlock =>
+    com.actionbarsherlock:actionbarsherlock:4.4.0@aar
+    com.android.support:support-v4:18.0.0
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In FacebookSDK:
+* AndroidManifest.xml => facebookSDK/src/main/AndroidManifest.xml
+* assets/ => facebookSDK/src/main/assets/
+* lint.xml => facebookSDK/lint.xml
+* res/ => facebookSDK/src/main/res/
+* src/ => facebookSDK/src/main/java/
+In drag:
+* AndroidManifest.xml => drag/src/main/AndroidManifest.xml
+* assets/ => drag/src/main/assets/
+* res/ => drag/src/main/res/
+* src/ => drag/src/main/java/
+In sliding:
+* AndroidManifest.xml => sliding/src/main/AndroidManifest.xml
+* assets/ => sliding/src/main/assets/
+* lint.xml => sliding/lint.xml
+* res/ => sliding/src/main/res/
+* src/ => sliding/src/main/java/
+In viewpager:
+* AndroidManifest.xml => viewpager/src/main/AndroidManifest.xml
+* assets/ => viewpager/src/main/assets/
+* lint.xml => viewpager/lint.xml
+* res/ => viewpager/src/main/res/
+* src/ => viewpager/src/main/java/
+In reproductor:
+* AndroidManifest.xml => reproductor/src/main/AndroidManifest.xml
+* assets/ => reproductor/src/main/assets/
+* libs/twitter4j-core-3.0.5.jar => reproductor/libs/twitter4j-core-3.0.5.jar
+* lint.xml => reproductor/lint.xml
+* res/ => reproductor/src/main/res/
+* src/ => reproductor/src/main/java/
+* src/jmhh/reproductormelodiame/EqInterface.aidl => reproductor/src/main/aidl/jmhh/reproductormelodiame/EqInterface.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:state_pressed="true"
+              android:drawable="@drawable/reloj_arena"/> 
+    <item android:state_pressed="true"
+              android:drawable="@drawable/reloj_arena"/>
+ <item android:drawable="@drawable/atras_1" />
+</selector><!-- From: file:/home/jose/AndroidstudioProjects/reproductor1/reproductor/src/main/res/drawable/atra.xml -->

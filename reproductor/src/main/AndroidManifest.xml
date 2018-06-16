@@ -1,0 +1,106 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="jmhh.reproductormelodiame"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.8.5"
+    
+       >
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+
+
+
+    <application
+        android:icon="@drawable/play_1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+
+         >
+        <activity
+            android:name="jmhh.reproductormelodiame.Reroductor"
+            android:label="@string/title_activity_reroductor"
+                android:configChanges="keyboardHidden|orientation|screenSize"
+              >
+<!--             android:screenOrientation="portrait"> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+        android:name="jmhh.reproductormelodiame.inicial"
+      android:label="@string/title_activity_reroductor"
+        android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+
+         <activity
+        android:name="jmhh.reproductormelodiame.pestbusca"
+         
+              
+        android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+          <activity
+        android:name="jmhh.reproductormelodiame.Buscag"
+          android:label="@string/title_activity_reroductor"
+         android:configChanges="keyboardHidden|orientation|screenSize"></activity>
+           <activity
+        android:name="jmhh.reproductormelodiame.buscagv"
+          android:label="@string/title_activity_reroductor"
+         android:configChanges="keyboardHidden|orientation|screenSize"></activity>
+           <activity
+        android:name="jmhh.reproductormelodiame.Guarda"
+          android:label="@string/title_activity_reroductor"
+        android:configChanges="keyboardHidden|orientation|screenSize"></activity>
+
+        <activity
+            android:name="jmhh.reproductormelodiame.FragmentLista"
+            android:configChanges="keyboardHidden|orientation|screenSize"></activity>
+
+
+            <activity
+        android:name="jmhh.reproductormelodiame.pestalbum"
+        android:configChanges="keyboardHidden|orientation|screenSize"></activity>
+           
+             <activity
+        android:name="jmhh.reproductormelodiame.pestgrupoclass"
+        android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+                 <activity
+        android:name="jmhh.reproductormelodiame.ecu"
+        android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+              <activity
+        android:name="jmhh.reproductormelodiame.pestmelo"
+              android:label="@string/title_activity_reroductor"
+        
+       android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+              <activity
+        android:name="jmhh.reproductormelodiame.TwitterWebActivity"
+              android:label="@string/title_activity_reroductor"
+        
+       android:configChanges="keyboardHidden|orientation|screenSize" ></activity>
+              <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+              
+<activity android:name="com.facebook.LoginActivity" />
+              <activity android:name="com.google.android.gms.ads.AdActivity"
+android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+
+  <meta-data
+     android:name="com.google.android.gms.version"
+     android:value="@integer/google_play_services_version" />
+  
+
+    <service
+            android:name=".EqService"
+            android:process=":remote">
+            <intent-filter>
+                <action
+                    android:name="jmhh.reproductormelodiame.EqService" />
+            </intent-filter>
+        </service>
+    
+  
+  
+              </application>
+
+</manifest>

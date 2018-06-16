@@ -1,0 +1,12 @@
+
+   <menu  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buscarid"
+        android:icon="@drawable/exit_1"
+        android:showAsAction="never"
+        android:title="@string/salir"/>
+   </menu>
+
+
+ <!-- From: file:/home/jose/AndroidstudioProjects/reproductor1/reproductor/src/main/res/menu/activity_reroductor.xml -->

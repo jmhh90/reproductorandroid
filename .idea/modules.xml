@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialTabsModule/MaterialTabsModule.iml" filepath="$PROJECT_DIR$/MaterialTabsModule/MaterialTabsModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drag/drag.iml" filepath="$PROJECT_DIR$/drag/drag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reproductor/reproductor.iml" filepath="$PROJECT_DIR$/reproductor/reproductor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reproductor1.iml" filepath="$PROJECT_DIR$/reproductor1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliding/sliding.iml" filepath="$PROJECT_DIR$/sliding/sliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+    </modules>
+  </component>
+</project>

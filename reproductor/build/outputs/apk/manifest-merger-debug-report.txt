@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+	package
+		ADDED from AndroidManifest.xml:2:1
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:installLocation
+		ADDED from AndroidManifest.xml:3:5
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:8:1
+	android:name
+		ADDED from AndroidManifest.xml:8:18
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:9:1
+	android:name
+		ADDED from AndroidManifest.xml:9:18
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:10:1
+	android:name
+		ADDED from AndroidManifest.xml:10:18
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from AndroidManifest.xml:11:3
+	android:name
+		ADDED from AndroidManifest.xml:11:20
+application
+ADDED from AndroidManifest.xml:15:5
+MERGED from com.astuetz:pagerslidingtabstrip:1.0.1:4:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from reproductor1:facebookSDK:unspecified:24:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.google.android.gms:play-services:6.5.87:20:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.android.support:appcompat-v7:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.afollestad:material-dialogs:0.6.2.3:12:5
+MERGED from com.android.support:appcompat-v7:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:17:9
+	android:icon
+		ADDED from AndroidManifest.xml:16:9
+	android:theme
+		ADDED from AndroidManifest.xml:18:9
+activity#jmhh.reproductormelodiame.Reroductor
+ADDED from AndroidManifest.xml:21:9
+	android:label
+		ADDED from AndroidManifest.xml:23:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:24:17
+	android:name
+		ADDED from AndroidManifest.xml:22:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:27:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:28:17
+	android:name
+		ADDED from AndroidManifest.xml:28:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:30:17
+	android:name
+		ADDED from AndroidManifest.xml:30:27
+activity#jmhh.reproductormelodiame.inicial
+ADDED from AndroidManifest.xml:33:9
+	android:label
+		ADDED from AndroidManifest.xml:35:7
+	android:configChanges
+		ADDED from AndroidManifest.xml:36:9
+	android:name
+		ADDED from AndroidManifest.xml:34:9
+activity#jmhh.reproductormelodiame.pestbusca
+ADDED from AndroidManifest.xml:38:10
+	android:configChanges
+		ADDED from AndroidManifest.xml:42:9
+	android:name
+		ADDED from AndroidManifest.xml:39:9
+activity#jmhh.reproductormelodiame.Buscag
+ADDED from AndroidManifest.xml:43:11
+	android:label
+		ADDED from AndroidManifest.xml:45:11
+	android:configChanges
+		ADDED from AndroidManifest.xml:46:10
+	android:name
+		ADDED from AndroidManifest.xml:44:9
+activity#jmhh.reproductormelodiame.buscagv
+ADDED from AndroidManifest.xml:47:12
+	android:label
+		ADDED from AndroidManifest.xml:49:11
+	android:configChanges
+		ADDED from AndroidManifest.xml:50:10
+	android:name
+		ADDED from AndroidManifest.xml:48:9
+activity#jmhh.reproductormelodiame.Guarda
+ADDED from AndroidManifest.xml:51:12
+	android:label
+		ADDED from AndroidManifest.xml:53:11
+	android:configChanges
+		ADDED from AndroidManifest.xml:54:9
+	android:name
+		ADDED from AndroidManifest.xml:52:9
+activity#jmhh.reproductormelodiame.FragmentLista
+ADDED from AndroidManifest.xml:56:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:58:13
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#jmhh.reproductormelodiame.pestalbum
+ADDED from AndroidManifest.xml:61:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:63:9
+	android:name
+		ADDED from AndroidManifest.xml:62:9
+activity#jmhh.reproductormelodiame.pestgrupoclass
+ADDED from AndroidManifest.xml:65:14
+	android:configChanges
+		ADDED from AndroidManifest.xml:67:9
+	android:name
+		ADDED from AndroidManifest.xml:66:9
+activity#jmhh.reproductormelodiame.ecu
+ADDED from AndroidManifest.xml:68:18
+	android:configChanges
+		ADDED from AndroidManifest.xml:70:9
+	android:name
+		ADDED from AndroidManifest.xml:69:9
+activity#jmhh.reproductormelodiame.pestmelo
+ADDED from AndroidManifest.xml:71:15
+	android:label
+		ADDED from AndroidManifest.xml:73:15
+	android:configChanges
+		ADDED from AndroidManifest.xml:75:8
+	android:name
+		ADDED from AndroidManifest.xml:72:9
+activity#jmhh.reproductormelodiame.TwitterWebActivity
+ADDED from AndroidManifest.xml:76:15
+	android:label
+		ADDED from AndroidManifest.xml:78:15
+	android:configChanges
+		ADDED from AndroidManifest.xml:80:8
+	android:name
+		ADDED from AndroidManifest.xml:77:9
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from AndroidManifest.xml:81:15
+	android:name
+		ADDED from AndroidManifest.xml:81:26
+	android:value
+		ADDED from AndroidManifest.xml:81:72
+activity#com.facebook.LoginActivity
+ADDED from AndroidManifest.xml:83:1
+	android:name
+		ADDED from AndroidManifest.xml:83:11
+activity#com.google.android.gms.ads.AdActivity
+ADDED from AndroidManifest.xml:84:15
+	android:configChanges
+		ADDED from AndroidManifest.xml:85:1
+	android:name
+		ADDED from AndroidManifest.xml:84:25
+meta-data#com.google.android.gms.version
+ADDED from AndroidManifest.xml:88:3
+MERGED from com.google.android.gms:play-services:6.5.87:21:9
+	android:name
+		ADDED from AndroidManifest.xml:89:6
+	android:value
+		ADDED from AndroidManifest.xml:90:6
+service#jmhh.reproductormelodiame.EqService
+ADDED from AndroidManifest.xml:93:5
+	android:process
+		ADDED from AndroidManifest.xml:95:13
+	android:name
+		ADDED from AndroidManifest.xml:94:13
+intent-filter#jmhh.reproductormelodiame.EqService
+ADDED from AndroidManifest.xml:96:13
+action#jmhh.reproductormelodiame.EqService
+ADDED from AndroidManifest.xml:97:17
+	android:name
+		ADDED from AndroidManifest.xml:98:21
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.astuetz:pagerslidingtabstrip:1.0.1:2:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from reproductor1:facebookSDK:unspecified:20:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from reproductor1:drag:unspecified:7:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.google.android.gms:play-services:6.5.87:18:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.android.support:appcompat-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.afollestad:material-dialogs:0.6.2.3:8:5
+MERGED from com.android.support:appcompat-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

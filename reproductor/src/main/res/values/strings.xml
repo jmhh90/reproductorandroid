@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="app_name">Reproductor Melodiame</string>
+    <string name="title_activity_reroductor">Reproductor Melodiame</string>
+    
+ <string name="permission_not_granted">No se puede realizar la acción seleccionada porque no se conceden los permisos.</string>
+    <string name="ok">OK</string>
+    <string name="success">Enviado</string>
+    <string name="error">Error</string>
+    <string name="app_id">725713924105522</string>
+     <string name="eliminar">¿Eliminar de la lista?</string>
+<string name="si">Si</string>
+   <string name="borrar_todo">Borrar todo</string>
+   <string name="cancelar">Cancelar</string>
+   <string name="anadir">¿Quieres añadirlo a la lista?</string>
+<string name="anadir_todo">Añadir todo</string>
+<string name="borrar_tarjeta">¿Quieres borrarlo de la tarjeta?</string>
+<string name="grupos">Grupos</string>
+<string name="albumes">Álbumes</string>
+<string name="anterior">Anterior</string>
+<string name="insertar">Inserte un nombre para la lista</string>
+<string name="guardar">Guardar</string>
+<string name="guardando">Guardando &#8230;</string>
+<string name="existe">¡Ya existe una lista con ese nombre!</string>
+<string name="cargando_lista">Cargando listas&#8230;</string>
+<string name="anadir_boton">Añadir</string>
+<string name="borrar_boton">Borrar</string>
+<string name="borrando">Borrando &#8230;</string>
+<string name="descargar">Descargar</string>
+<string name="descargando">Descargando &#8230;</string>
+<string name="disponibilidad">Comprobando disponibilidad</string>
+<string name="caido">Enlace caido</string>
+<string name="salir">Salir</string>
+<string name="publicar">¿Publicar lo que estás escuchando en Twitter o en Facebook?</string>
+<string name="publicado">Publicado exitosamente</string>
+<string name="tweet">Tweet enviado</string>
+<string name="no_tweet">No se pudo enviar tu tweet</string>
+<string name="sin_red">¡¡Sin red!!</string>
+<string name="sin_sd">¡No está insertada la tarjeta SD!</string>
+<string name="sin_sd2">Sin SD pulsa aqui cuando esté insertada</string>
+<string name="no_escucha">¡No estás escuchando nada!</string>
+<string name="anadir_lista">Tienes que añadir una lista</string>
+<string name="claves">No se han encontrado claves en el teléfono las descargaremos</string>
+<string name="estar_escuchando">Estoy escuchando</string>
+<string name="cancelado">Cancelado</string>
+<string name="elimina_descarga">¿Eliminar o descargar?</string>
+<string name="desconocido">Desconocido</string>
+<string name="no_canciones">No hay canciones añadidas</string>
+<string name="no_bbdd">No se puede crear la BBDD</string>
+<string name="nombre_lista">Tienes que ponerle un nombre a la lista</string>
+<string name="anadir_borrar">¿Deseas añadirla o borrarla?</string>
+<string name="anadiendo">Añadiendo &#8230;</string>
+<string name="no_lista">No hay ninguna lista</string>
+<string name="no_valor">No hay ninguna valoración</string>
+<string name="no_valido">No hay archivos válidos</string>
+<string name="carpeta">Carpeta</string>
+<string name="defectuoso">Defectuoso</string>
+<string name="cargando">Cargando &#8230;</string>
+<string name="cargando_gr">Cargando grupos &#8230;</string>
+<string name="cargando_al">Cargando álbumes &#8230;</string>
+<string name="guardar_lista">Guardar Lista</string>
+<string name="abrir_lista">Abrir Lista</string>
+<string name="de">de</string>
+<string name="puntuar">¿Guardar/modificar tu valoración?</string>
+<string name="guar_dar">Guardado</string>
+<string name="mo_difica">Modificado</string>
+<string name="val_or">Valoraciones</string>
+<string name="can_cion">Canciones</string>
+<string name="pulsa_gr">Pulsa para cargar los grupos</string>
+<string name="pulsa_al">Pulsa para cargar los álbumes</string>
+<string name="ecu">Ecualizador</string>
+<string name="res">Restaurar valores por defecto</string>
+<string name="tweetoface">¿Twitter o Facebook?</string>
+<string name="borrar_todol">¿Borrar todas las listas?</string>
+<string name="borrar_todov">¿Borrar todas las valoraciones?</string>
+<string name="re_des">Redes sociales</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string-array name="drawer_titles">
+        <item>Pantalla Principal</item>
+        <item>Lista De Reproducción</item>
+        <item>Guardar Lista</item>
+        <item>Listas Guardadas</item>
+        <item>Valoraciones</item>
+        <item>Melodiame</item>
+        <item>Redes Sociales</item>
+        <item>Ecualizador</item>
+
+    </string-array>
+
+    <array name="drawer_icons">
+        <item>@drawable/play_icon</item>
+        <item>@drawable/ic_menu_playlist</item>
+        <item>@drawable/ic_menu_save</item>
+        <item>@drawable/ic_menu_list</item>
+        <item>@drawable/star_off2</item>
+        <item>@drawable/ic_menu_lyrics</item>
+        <item>@drawable/so_cial</item>
+        <item>@drawable/e_qu</item>
+        <item>@drawable/exit_1</item>
+    </array>
+
+</resources>

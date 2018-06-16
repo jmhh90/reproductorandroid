@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <WebView
+     
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/webView"/>
+</LinearLayout><!-- From: file:/home/jose/AndroidstudioProjects/reproductor1/reproductor/src/main/res/layout/twitter_webview.xml -->

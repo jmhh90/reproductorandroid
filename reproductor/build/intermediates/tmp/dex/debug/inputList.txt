@@ -1,0 +1,12 @@
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/classes/debug
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7967666094a9a5a73b775cad8b4960088ed0e879.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-781b347f98477be56f7a2172831c832e8064fc01.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-fd63c872f39f5bfdafb17e25f660ca2dd7d5cc62.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/butterknife-6.0.0-ccaa4c0efb0a21a59ef568ba0cec500e8f6dac37.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-8329778152dd72bf943597940d26c3dd8074e126.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-050588ba3f2e3a9ad6b277748cdee98f78841f53.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/twitter4j-core-3.0.5-cc0dde2482875f3575c9e9e774f19211f9a0a48a.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-9f640c25dc3ed0c372722ce6035e16a19cf952f4.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-aedea2d2fdb345c3293c2ff4238beff1bc5d5c55.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-6fd88133cbd209dc9dd2a5d4a8a066748b15f701.jar
+/home/jose/AndroidstudioProjects/reproductor1/reproductor/build/intermediates/pre-dexed/debug/classes-89ee405667397c4e9c898b5356ceb70f1837e98e.jar
