@@ -7,8 +7,8 @@ package jmhh.reproductormelodiame;
  */
 public class ConstantesConfiguracion {
 	// Datos de Twitter.
-	public final static String OAUTH_CONSUMER_KEY = "B3MR4qzYR8GKGMRud68YoQ"; 
-	public final static String OAUTH_CONSUMER_SECRET = "SS0ACoTswTKBBunArboe5MpA1RoB2sTeqSdDyS8WCk";
+	public final static String OAUTH_CONSUMER_KEY = "MyConsumerKey"; 
+	public final static String OAUTH_CONSUMER_SECRET = "MyConsumerSecret";
 	public final static String TWITTER_CALLBACK = "twitter-callback:///";
 	
 	// Shared Preferences nombre.
